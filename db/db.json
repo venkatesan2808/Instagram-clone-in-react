@@ -1,0 +1,112 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "virat.kohli",
+      "profilePic": "src/assets/p3.jpg",
+      "postImage": "src/assets/image1.jpg",
+      "caption": "Hard work beats talent 🔥",
+      "likes": 4521,
+      "time": "2h ago",
+      "comments": [
+        {
+          "user": "rohit.sharma",
+          "comment": "Amazing post bro 🔥"
+        },
+        {
+          "user": "msd",
+          "comment": "Keep going 💪"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "username": "deepika.padukone",
+      "profilePic": "src/assets/p4.webp",
+      "postImage": "src/assets/im2.jpg",
+      "caption": "Sunsets and good vibes 🌅",
+      "likes": 9870,
+      "time": "4h ago",
+      "comments": [
+        {
+          "user": "ranveer.singh",
+          "comment": "Beautiful ❤️"
+        },
+        {
+          "user": "travelgirl",
+          "comment": "Loved this view 😍"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "username": "tech_world",
+      "profilePic": "src/assets/p3.jpg",
+      "postImage": "src/assets/im3.jpg",
+      "caption": "Coding late nights 💻",
+      "likes": 2300,
+      "time": "6h ago",
+      "comments": [
+        {
+          "user": "frontend_dev",
+          "comment": "React life 😎"
+        },
+        {
+          "user": "backend_master",
+          "comment": "Clean setup 👍"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "username": "travel.diaries",
+      "profilePic": "src/assets/p4.webp",
+      "postImage": "src/assets/im4.jpg",
+      "caption": "Exploring new places ✈️",
+      "likes": 7542,
+      "time": "8h ago",
+      "comments": [
+        {
+          "user": "wanderlust",
+          "comment": "Need this vacation 😭"
+        },
+        {
+          "user": "naturelover",
+          "comment": "Awesome click 📸"
+        }
+      ]
+    }
+ 
+  ],
+  "profile": {
+      "id": 1,
+      "username": "virat.kohli",
+      "profilePic": "src/assets/p3.jpg"
+  },
+  "suggestions": [{
+      "id": 4,
+      "username": "dhoni",
+      "profilePic": "src/assets/p4.webp"
+      
+  },
+   {
+      "id": 3,
+      "username": "vijay",
+      "profilePic": "src/assets/p3.jpg"
+   },
+   {
+     "id": 2,
+      "username": "dhanush",
+      "profilePic": "src/assets/p3.jpg"
+   },
+   {
+    "id": 1,
+      "username": "main",
+      "profilePic": "src/assets/p3.jpg"
+   }
+] 
+
+  
+}
+
+ 
