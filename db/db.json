@@ -111,21 +111,21 @@
       "id": 1,
       "username": "virat.kohli",
       "profilePic": "src/assets/p3.jpg",
-      "Image": "/images/s1.jpg"
+      "Image": "/s1.jpg"
   
     },
     {
       "id": 2,
       "username": "deepika.padukone",
       "profilePic": "src/assets/p4.webp",
-      "Image": "/images/s1.jpg"
+      "Image": "/s1.jpg"
      
     },
     {
       "id": 3,
       "username": "tech_world",
       "profilePic": "src/assets/p3.jpg",
-      "Image": "/images/s1.jpg"
+      "Image": "/s1.jpg"
       
       
     },
@@ -133,7 +133,7 @@
       "id": 4,
       "username": "travel.diaries",
       "profilePic": "src/assets/p4.webp",
-      "Image": "/images/s1.jpg"
+      "Image": "/s1.jpg"
     
     }
  
