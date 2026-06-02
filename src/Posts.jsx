@@ -56,4 +56,4 @@ function Posts() {
 
 export default Posts
 
-//jon-server -- watch db.json --port 3000
+//json-server --watch db/db.json --port 3000
