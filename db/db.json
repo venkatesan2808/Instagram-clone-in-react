@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "1",
       "username": "virat.kohli",
       "profilePic": "src/assets/p3.jpg",
       "postImage": "src/assets/image1.jpg",
@@ -20,7 +20,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "deepika.padukone",
       "profilePic": "src/assets/p4.webp",
       "postImage": "src/assets/im2.jpg",
@@ -39,7 +39,7 @@
       ]
     },
     {
-      "id": 3,
+      "id": "3",
       "username": "tech_world",
       "profilePic": "src/assets/p3.jpg",
       "postImage": "src/assets/im3.jpg",
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "id": 4,
+      "id": "4",
       "username": "travel.diaries",
       "profilePic": "src/assets/p4.webp",
       "postImage": "src/assets/im4.jpg",
@@ -76,70 +76,71 @@
         }
       ]
     }
- 
   ],
   "profile": {
-      "id": 1,
-      "username": "virat.kohli",
-      "profilePic": "src/assets/p3.jpg"
+    "id": 1,
+    "username": "virat.kohli1234",
+    "profilePic": "src/assets/p2.jpg"
   },
-  "suggestions": [{
-      "id": 4,
+  "suggestions": [
+    {
+      "id": "4",
       "username": "dhoni",
       "profilePic": "src/assets/p4.webp"
-      
-  },
-   {
-      "id": 3,
+    },
+    {
+      "id": "3",
       "username": "vijay",
       "profilePic": "src/assets/p3.jpg"
-   },
-   {
-     "id": 2,
+    },
+    {
+      "id": "2",
       "username": "dhanush",
       "profilePic": "src/assets/p3.jpg"
-   },
-   {
-    "id": 1,
+    },
+    {
+      "id": "1",
       "username": "main",
       "profilePic": "src/assets/p3.jpg"
-   }
-] ,
-
-"story": [
+    }
+  ],
+  "story": [
     {
-      "id": 1,
+      "id": "1",
       "username": "virat.kohli",
       "profilePic": "src/assets/p3.jpg",
       "Image": "/s1.jpg"
-  
     },
     {
-      "id": 2,
+      "id": "2",
       "username": "deepika.padukone",
       "profilePic": "src/assets/p4.webp",
       "Image": "/s1.jpg"
-     
     },
     {
-      "id": 3,
+      "id": "3",
       "username": "tech_world",
       "profilePic": "src/assets/p3.jpg",
       "Image": "/s1.jpg"
-      
-      
     },
     {
-      "id": 4,
+      "id": "4",
       "username": "travel.diaries",
       "profilePic": "src/assets/p4.webp",
       "Image": "/s1.jpg"
-    
     }
- 
-  ]
-
-  
+  ],
+  "followers": [
+    {
+      "id": "2",
+      "username": "deepika.padukone",
+      "profilePic": "src/assets/p4.webp"
+    },
+    {
+      "id": "3",
+      "username": "tech_world",
+      "profilePic": "src/assets/p3.jpg"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
-
- 
